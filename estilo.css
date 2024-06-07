@@ -1,0 +1,58 @@
+h1, h2, h3, p, li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cabecalho{
+    margin-left: 20%;
+}
+.capa_site{
+    width: 100%;
+}
+.nome{
+    text-align: right;
+    position: relative;
+    bottom: 1000px;
+    margin-right: 15%;
+}
+.sobre_nos{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+}
+.img{
+    text-align: center;
+    width: 400px;
+    height: 300px;
+}
+.sobre_nos_div{
+    text-align: center;
+}
+.borda{
+    border-left: 3px black solid;
+    text-align: justify;
+    padding-left: 5px;
+    margin-left: 20%;
+}
+.paralax1{
+    background-image: url(fundo.jpg);
+    background-size: cover;
+    background-repeat: repeat-y ;
+    background-attachment: fixed;
+    height: 300px;
+}
+.atuacao{
+    border-radius: 20px;
+    background-color: white;
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 36px;
+}
+.margin{
+    margin-left: 20% ;
+}
+.baixo{
+    margin-bottom: 40px;
+}
+.mover{
+    padding-top: 125px;
+}
